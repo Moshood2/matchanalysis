@@ -1,0 +1,22 @@
+
+body{
+font-family:Arial, Helvetica, sans-serif;
+background:#0f1115;
+color:white;
+margin:0;
+}
+header{
+display:flex;
+justify-content:space-between;
+padding:20px 40px;
+border-bottom:1px solid #00ff9c;
+}
+.logo{color:#00ff9c;}
+nav a{margin-left:20px;color:white;text-decoration:none;}
+.hero{padding:120px 20px;text-align:center;background:#0a0d0c;}
+.dashboard{padding:40px;}
+.card{background:#171b1a;padding:20px;margin:15px 0;border-radius:8px;border:1px solid #00ff9c;}
+table{width:100%;margin-top:20px;border-collapse:collapse;}
+td,th{border:1px solid #00ff9c;padding:10px;}
+.heatmap{padding:40px;text-align:center;}
+canvas{background:#111;border:1px solid #00ff9c;}
